@@ -17,6 +17,10 @@
   </div>
 </div>
 
+<div class="note-card" style="background:#fff6ef;border:1px solid rgba(208,191,166,0.72);border-radius:20px;padding:18px 22px;margin:24px 0 0;box-shadow:0 14px 28px rgba(75,44,15,0.12);">
+  <strong>Classical design note:</strong> Open <a href="README.html" style="color:#8f6d42;text-decoration:none;">README.html</a> in your browser for the fully styled classical documentation experience.
+</div>
+
 ---
 
 ## 🌟 Project Overview
