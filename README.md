@@ -7,7 +7,7 @@
 <br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Pyhton-3.1.4+-61dafb?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/pypi/pyversions/:packageName)
 ![Vite](https://img.shields.io/badge/Vite-5.x-646cff?style=flat-square&logo=vite&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-4.x-000000?style=flat-square&logo=express&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-20+-5fa04e?style=flat-square&logo=nodedotjs&logoColor=white)
