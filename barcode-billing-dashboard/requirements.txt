@@ -1,0 +1,5 @@
+# Dependencies for the local Python Barcode Scanner & OpenCV video loop
+opencv-python>=4.8.0
+pyzbar>=0.1.9
+requests>=2.31.0
+mysql-connector-python>=8.0.33
