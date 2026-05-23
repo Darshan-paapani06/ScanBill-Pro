@@ -1,13 +1,20 @@
-<div align="center">
-  <h1>🚀 ScanBill Pro</h1>
-  <p><strong>Next-generation barcode billing dashboard with intelligent product discovery, real-time inventory health, and polished animated checkout workflows.</strong></p>
-  <p>
-    <a href="#project-overview">Overview</a> •
-    <a href="#design-tree">Design Tree</a> •
-    <a href="#workflow">Workflow</a> •
-    <a href="#features">Features</a> •
-    <a href="#author">Author</a>
-  </p>
+<div style="font-family:'Georgia','Times New Roman',serif;color:#3b2e26;background:#f9f1e6;padding:32px 28px 24px;border:1px solid #d1bfa5;border-radius:22px;box-shadow:0 16px 40px rgba(0,0,0,0.08);margin-bottom:28px;">
+  <div style="max-width:920px;margin:0 auto;text-align:center;">
+    <p style="margin:0 0 10px;font-size:0.95rem;color:#8f7a63;letter-spacing:0.24em;text-transform:uppercase;">A Curated Retail Ledger</p>
+    <h1 style="margin:0;font-size:3.25rem;line-height:1.02;color:#2b1e17;text-shadow:1px 1px 0 rgba(255,255,255,0.45);">ScanBill Pro</h1>
+    <p style="margin:16px auto 22px;max-width:720px;font-size:1.05rem;color:#55453f;letter-spacing:0.02em;">A refined barcode billing dashboard with intelligent discovery, animated classical design, and a polished point-of-sale workflow.</p>
+    <div style="display:inline-flex;flex-wrap:wrap;justify-content:center;gap:10px;padding:12px 16px;border-top:1px solid rgba(139,113,86,0.18);border-bottom:1px solid rgba(139,113,86,0.18);background:#fff7ed;border-radius:14px;">
+      <a href="#project-overview" style="color:#7d614b;text-decoration:none;font-weight:600;">Overview</a>
+      <span style="color:#b0926d;">·</span>
+      <a href="#design-tree" style="color:#7d614b;text-decoration:none;font-weight:600;">Design Tree</a>
+      <span style="color:#b0926d;">·</span>
+      <a href="#workflow" style="color:#7d614b;text-decoration:none;font-weight:600;">Workflow</a>
+      <span style="color:#b0926d;">·</span>
+      <a href="#features" style="color:#7d614b;text-decoration:none;font-weight:600;">Features</a>
+      <span style="color:#b0926d;">·</span>
+      <a href="#author" style="color:#7d614b;text-decoration:none;font-weight:600;">Author</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -691,11 +698,12 @@ Every enhancement should make ScanBill Pro feel more polished.
 
 ## 🧾 Author & Credits
 
-**Darshan Paapani**
-
-Designed, built, and refined with a relentless focus on speed, reliability, and premium checkout experience.
-
-ScanBill Pro is authored to impress product managers, retail operators, and technical reviewers.
+<div style="font-family:'Georgia','Times New Roman',serif;color:#3b2e25;background:#fbf1e5;padding:26px 24px 24px;border:1px solid #d7c6ad;border-radius:18px;box-shadow:0 14px 32px rgba(0,0,0,0.06);">
+  <p style="margin:0 0 12px;font-size:1.05rem;color:#5c483b;letter-spacing:0.08em;text-transform:uppercase;">Lead Artisan</p>
+  <p style="margin:0;font-size:2rem;line-height:1.15;color:#35281e;text-shadow:0 1px 0 rgba(255,255,255,0.72);">Darshan <span style="color:#8a6f58;">Paapani</span></p>
+  <p style="margin:14px 0 0;font-size:1rem;line-height:1.8;color:#5f4d3f;">Crafted with classical elegance, premium motion design, and a retail-ready checkout experience.</p>
+  <p style="margin:8px 0 0;font-size:0.95rem;color:#7a6657;">ScanBill Pro is designed to impress product managers, retail operators, and technical reviewers alike.</p>
+</div>
 
 ---
 
