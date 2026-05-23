@@ -29,6 +29,11 @@ Built with a retail-first mindset — fast scanning, clear product insight, rich
 
 <img src="animated-divider.svg" width="800" alt=""/>
 
+<img width="401" height="636" alt="Screenshot 2026-05-22 215134" src="https://github.com/user-attachments/assets/ed2257e8-63dc-4cbc-bc98-f3e89b79116e" />
+<img width="393" height="630" alt="Screenshot 2026-05-22 215305" src="https://github.com/user-attachments/assets/df8bd256-be80-454a-b69b-52eda77fa0ae" />
+<img width="446" height="566" alt="Screenshot 2026-05-22 215352" src="https://github.com/user-attachments/assets/59c1303c-f4c4-4537-82b7-a4e706aff73b" />
+<img width="403" height="616" alt="Screenshot 2026-05-22 214819" src="https://github.com/user-attachments/assets/4b5ff5cc-b90f-486d-af1d-f6dab657df7c" />
+
 ## 🎯 Project Goals
 
 | # | Goal |
